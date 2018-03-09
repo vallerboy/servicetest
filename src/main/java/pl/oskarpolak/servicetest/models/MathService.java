@@ -2,6 +2,7 @@ package pl.oskarpolak.servicetest.models;
 
 import lombok.Getter;
 import lombok.Setter;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service
